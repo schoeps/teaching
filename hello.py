@@ -1,5 +1,5 @@
 # define string
-mystring = "Goodby space"
+mystring = "Goodbye space"
 
 # print string 
 print(mystring)
