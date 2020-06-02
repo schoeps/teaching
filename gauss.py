@@ -3,9 +3,9 @@ import sys
 # read input
 try:
     n = int(sys.argv[1])
-except ValueError:
+except:
     print("Input is not an integer")
-    exit
+    exit(1)
 
 # Gauss' formula
 gauss = 1
